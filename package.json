@@ -7,10 +7,9 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "predeploy": "npm run build"
   },
-  "homepage": "https://javier.xyz/img2css/",
+  "homepage": "https://img2css.vercel.app",
   "repository": {
     "type": "git",
     "url": "https://github.com/javierbyte/img2css.git"
